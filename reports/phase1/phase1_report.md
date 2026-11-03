@@ -1,8 +1,10 @@
 # Phase 1 Report: Data Understanding and Quality Assessment
 
 **Project:** NYC TLC Trip Record Data Analysis (Yellow Taxi)
-**Student:** Lida Majidi
+**Student:** Lida Majidi Aralan
+**StudentID:**401103706
 **Date:** November 2026
+
 **Track:** Track A (Time-Series, Event, and Anomaly Analysis)
 
 ---
